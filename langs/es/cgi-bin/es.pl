@@ -1659,7 +1659,7 @@
 'static ip' => 'IP estática',
 'status' => 'Status',
 'status information' => 'Información de status',
-'status ovpn' => '4. Status de OpenVPN / Configuración:ç',
+'status ovpn' => '4. Status de OpenVPN / Configuración:',
 'std classes' => 'Standardclasses',
 'stop' => 'Detener',
 'stop ovpn server' => 'Detener servidor OpenVPN',
